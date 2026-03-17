@@ -16,24 +16,24 @@
 
 
 ### 1.克隆项目
-Bash
+```Bash
 git clone [https://github.com/tuyun1175/Daily-English-Quote-Collection.git](https://github.com/tuyun1175/Daily-English-Quote-Collection.git)
 cd Daily-English-Quote-Collection
-
+```
 
 ### 2. 安装依赖
 
 确保你已经安装了 requests 和 beautifulsoup4 库：
 
-Bash
+```Bash
 pip install requests beautifulsoup4
-
+```
 
 ### 3. 运行程序
 
-Bash
+```Bash
 python english.py
-
+```
 
 ### 🛠️ 技术栈
 Requests: 负责发送网络请求，获取网页 HTML。
