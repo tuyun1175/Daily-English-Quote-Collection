@@ -14,9 +14,10 @@
 
 ## 🚀 快速开始
 
-### 1. 克隆项目
 
-```bash
+### 1.克隆项目
+
+bash
 git clone [https://github.com/tuyun1175/Daily-English-Quote-Collection.git](https://github.com/tuyun1175/Daily-English-Quote-Collection.git)
 cd Daily-English-Quote-Collection
 
@@ -43,12 +44,12 @@ BeautifulSoup4: 负责解析 HTML 结构，提取核心数据。
 Random: 负责实现跨页面随机选取的逻辑。
 
 ### 📝 学习笔记
-这个项目是我学习 Python 爬虫的第一步，我解决了以下挑战：
+这个项目是是学习 Python 爬虫的好途径，可以解决了以下问题：
 
-环境配置：学会了如何创建和管理 Python 虚拟环境。
+环境配置：如何创建和管理 Python 虚拟环境。
 
-翻页逻辑：通过观察 URL 规律，实现了跨页面抓取。
+翻页逻辑：如何通过观察 URL 规律，实现了跨页面抓取。
 
-Git 操作：掌握了从本地提交代码到 GitHub 的完整流程。
+Git 操作：如何从本地提交代码到 GitHub 的完整流程。
 
 ⭐ 如果这个项目对你有帮助，欢迎点个 Star！
