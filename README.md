@@ -16,8 +16,7 @@
 
 
 ### 1.克隆项目
-
-bash
+Bash
 git clone [https://github.com/tuyun1175/Daily-English-Quote-Collection.git](https://github.com/tuyun1175/Daily-English-Quote-Collection.git)
 cd Daily-English-Quote-Collection
 
