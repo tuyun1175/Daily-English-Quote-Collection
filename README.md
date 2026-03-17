@@ -1,5 +1,5 @@
 # Daily-English-Quote-Collection
-# 🌟 Daily English Quote Collection (每日英文格言爬虫)
+# 🌟 Daily English Quote Collection 
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -15,27 +15,34 @@
 ## 🚀 快速开始
 
 ### 1. 克隆项目
+
 ```bash
 git clone [https://github.com/tuyun1175/Daily-English-Quote-Collection.git](https://github.com/tuyun1175/Daily-English-Quote-Collection.git)
 cd Daily-English-Quote-Collection
 
-2. 安装依赖
+
+### 2. 安装依赖
+
 确保你已经安装了 requests 和 beautifulsoup4 库：
 
 Bash
 pip install requests beautifulsoup4
-3. 运行程序
+
+
+### 3. 运行程序
+
 Bash
 python english.py
 
-🛠️ 技术栈
+
+### 🛠️ 技术栈
 Requests: 负责发送网络请求，获取网页 HTML。
 
 BeautifulSoup4: 负责解析 HTML 结构，提取核心数据。
 
 Random: 负责实现跨页面随机选取的逻辑。
 
-📝 学习笔记
+### 📝 学习笔记
 这个项目是我学习 Python 爬虫的第一步，我解决了以下挑战：
 
 环境配置：学会了如何创建和管理 Python 虚拟环境。
