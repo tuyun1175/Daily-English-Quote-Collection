@@ -18,8 +18,6 @@
 ```bash
 git clone [https://github.com/tuyun1175/Daily-English-Quote-Collection.git](https://github.com/tuyun1175/Daily-English-Quote-Collection.git)
 cd Daily-English-Quote-Collection
-Gemini said
-太棒了！一个漂亮的 README.md 就像是项目的“门面”，不仅能让路过的人一眼看出你的项目是做什么的，还能记录你作为开发者的成长过程。
 
 2. 安装依赖
 确保你已经安装了 requests 和 beautifulsoup4 库：
